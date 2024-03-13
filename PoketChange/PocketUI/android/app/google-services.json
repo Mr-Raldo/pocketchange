@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690093438064",
+    "project_id": "pocket100-chan",
+    "storage_bucket": "pocket100-chan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690093438064:android:51e3f5b2c0cf864d7ff0b5",
+        "android_client_info": {
+          "package_name": "com.example.bankx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFdA9iICwxEGKQyA54Ktk5KFlPH_2lWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
